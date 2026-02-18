@@ -32,8 +32,8 @@ Screenshots:
 
 1. The Sync Engine
    This screenshot shows the successful transformation of relational data into a flexible JSONB format within the target database.
-   ![200 Record Sync Proof](./screenshots/students_sync.png)
-   ![200 Record Sync Proof](./screenshots/sync_logs.png)
+   ![200 Record Sync Proof](./screenshots2/students_sync.png)
+   ![200 Record Sync Proof](./screenshots2/sync_logs.png)
 
 Features:
 Real-time Sync: Triggered instantly via database webhooks.
